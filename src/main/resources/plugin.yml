@@ -1,0 +1,5 @@
+name: CraftBoost
+version: '1.0.0'
+main: winlyps.craftBoost.CraftBoost
+api-version: '1.16'
+authors: [ Winlyps ]
